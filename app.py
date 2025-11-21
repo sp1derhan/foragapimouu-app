@@ -777,6 +777,6 @@ def yay():
         generator_script=GENERATOR_SCRIPT
     ))
 
-if __name__ == '__main__':
+
 
 
